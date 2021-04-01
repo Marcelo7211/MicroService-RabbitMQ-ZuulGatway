@@ -1,0 +1,16 @@
+com\macelobarboza\crud\api\exception\CrudExceptionController.class
+com\macelobarboza\crud\api\controller\ProdutoController.class
+com\macelobarboza\crud\domain\dto\ProdutoDTO.class
+com\macelobarboza\crud\core\rabbitmq\config\MessageConfig.class
+com\macelobarboza\crud\domain\exception\ResourceNotFoundException.class
+com\macelobarboza\crud\core\security\jwt\JwtConfigurer.class
+com\macelobarboza\crud\core\security\config\SecurityConfig.class
+com\macelobarboza\crud\core\security\jwt\JwtTokenFilter.class
+com\macelobarboza\crud\infrastructure\repository\ProdutoRepository.class
+com\macelobarboza\crud\core\rabbitmq\message\ProdutoSendMessage.class
+com\macelobarboza\crud\CrudApplication.class
+com\macelobarboza\crud\core\security\jwt\JwtTokenProvider.class
+com\macelobarboza\crud\domain\exception\ExceptionResponse.class
+com\macelobarboza\crud\core\security\jwt\JwtTokenProvider$1.class
+com\macelobarboza\crud\domain\service\ProdutoService.class
+com\macelobarboza\crud\domain\entity\Produto.class
